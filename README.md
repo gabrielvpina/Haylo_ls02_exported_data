@@ -23,5 +23,5 @@ Tentarei aqui relacionar diferentes dados obtidos e usar o RStudio para criar gr
 
 ### Gráfico 01: Sono e Consumo calórico - Do início de Setembro até o dia 14/11/2021.
 
-![alt text](https://github.com/gabrielvpina/Sono-e-Atividade/blob/main/S%26A_plot01.jpeg)
+![alt text](https://github.com/gabrielvpina/Haylo_ls02_exported_data/blob/main/dados%20estat.jpeg)
 
