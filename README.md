@@ -11,7 +11,7 @@ O grande impecilho na hora de analisar esses dados é a variação no tempo de c
 
 ### Alguns dados básicos
 
-![alt text](file:///home/gabriel/%C3%81rea%20de%20Trabalho/Haylou%20ls02/sono-e-atividade---estatisticas.html)
+![alt text](![alt text](https://github.com/gabrielvpina/Sono-e-Atividade/blob/main/S%26A_plot01.jpeg))
 
 
 
