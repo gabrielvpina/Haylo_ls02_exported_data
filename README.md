@@ -11,7 +11,7 @@ O grande impecilho na hora de analisar esses dados é a variação no tempo de c
 
 ### Alguns dados básicos
 
-![alt text](![alt text](https://github.com/gabrielvpina/Sono-e-Atividade/blob/main/S%26A_plot01.jpeg))
+![alt text](https://github.com/gabrielvpina/Haylo_ls02_exported_data/blob/main/S%26A_plot01.jpeg))
 
 
 
