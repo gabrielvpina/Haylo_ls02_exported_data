@@ -15,6 +15,7 @@ Nesse momento vou extrair alguns dados de para ver índices de estatística desc
 ![alt text](https://github.com/gabrielvpina/Haylo_ls02_exported_data/blob/main/Captura%20de%20tela%20de%202022-01-04%2000-02-15.png)
 
 Segundo os dados, meu sono total teve uma média de 27360 segundos, ou seja, 7,6 horas diárias de sono em média. A maior medição de sono total foi de 47160 s = 13,1 horas de sono, já a menor foi de 1 min. 
+
 Porém como sabemos a média nem sempre é um bom indicador de rotina ou tendência, podemos ver isso quando observamos a distância diária percorrida, onde a média diária é de 2,46 Km. Eu corria alguns dias da semana, porém não era algo diário e esse valor explica muito pouco sobre meu comportamento. A mediana seria um valor melhor pra isso (ainda que não muito precisa também), minha mediana foi de 1,55 Km, isso siginifica que durante a metade do período de coleta, eu percorri menos que 1,55 Km por dia, ainda não é algo próximo do exato mas ainda assim é melhor do que a média.
 
 
