@@ -6,8 +6,8 @@ library(patchwork)
 
 #Os dados utilizados foram exportados do smartwatch Haylo ls02 através do app Hello Haylo, eles englobamo período do início de setembro e até o dia 14/11/2021
 #Bancos de dados do Github
-atividade <- read.csv('https://raw.githubusercontent.com/gabrielvpina/Sono-e-Atividade/main/2021-09-01_activity.csv')
-sono <- read.csv('https://raw.githubusercontent.com/gabrielvpina/Sono-e-Atividade/main/2021-09-01_sleep.csv')
+atividade <- read.csv('https://raw.githubusercontent.com/gabrielvpina/Haylo_ls02_exported_data/main/2021-09-01_2021-11-14_activity.csv')
+sono <- read.csv('https://raw.githubusercontent.com/gabrielvpina/Haylo_ls02_exported_data/main/2021-09-01_2021-11-14_sleep.csv')
 
 #Mudando o nome das colunas dos data frames:
 colnames(atividade) <- c('Date','Steps','Distance','Calories')
@@ -54,7 +54,7 @@ p2 <- ggplot(data, aes(x=Dia, y=Calorias)) +
   ggtitle("Calorias (Kcal)") +
   theme_ipsum()
 
-#Junção dos gráficos de tempo de sono (horas) e calorias (Kcal) de um mesmo período de tempo.
 p1+p2
+
 
 
