@@ -8,6 +8,7 @@ Onde são coletados o horário de início e fim do período de sono, as mudança
 Aqui podemos encontrar os passos dados em certos períodos de tempo ao longo do dia (variando os períodos de tempo conforme a atividade e conexão com o smartphone), como o número de passos, a distância percorrida (Km) e as calorias (Kcal) ao longo do dia.
 
 O grande impecilho na hora de analisar esses dados é a variação no tempo de coleta, em alguns dias eles são coletados a cada hora (24 vezes) em outros, quando eu não tinha muita conexão com o smartphone, os dados são coletados 2 ou 3 vezes por dia. 
+Nesse momento vou extrair alguns dados de para ver índices de estatística descritiva, para simplificar (por enquanto) a parte do sono só terá duas principais colunas: data e sono total (em segundos). Vamos para os dados:
 
 ### Alguns dados básicos
 
