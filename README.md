@@ -11,7 +11,14 @@ O grande impecilho na hora de analisar esses dados é a variação no tempo de c
 
 ### Alguns dados básicos
 
-
+summary(atividade)
+##       Date               Calories         Steps          Distance    
+##  Min.   :2021-09-01   Min.   :  0.0   Min.   :   21   Min.   :0.010  
+##  1st Qu.:2021-09-19   1st Qu.: 41.0   1st Qu.: 1414   1st Qu.:1.055  
+##  Median :2021-10-08   Median : 62.0   Median : 2058   Median :1.550  
+##  Mean   :2021-10-08   Mean   :101.8   Mean   : 3253   Mean   :2.458  
+##  3rd Qu.:2021-10-26   3rd Qu.:151.0   3rd Qu.: 4828   3rd Qu.:3.630  
+##  Max.   :2021-11-14   Max.   :380.0   Max.   :11773   Max.   :8.850
 
 
 
