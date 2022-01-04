@@ -12,7 +12,7 @@ Nesse momento vou extrair alguns dados de para ver índices de estatística desc
 
 ### Alguns dados básicos
 
-![alt text](https://github.com/gabrielvpina/Haylo_ls02_exported_data/blob/main/dados%20estat.jpeg))
+![alt text](https://github.com/gabrielvpina/Haylo_ls02_exported_data/blob/main/Captura%20de%20tela%20de%202022-01-04%2000-02-15.png))
 
 
 
